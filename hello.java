@@ -15,7 +15,7 @@ public class hello {
             
         System.out.println("Enter your name");  
         String name=sc.next();  
-        System.out.println("Name:"+name);  
+        System.out.println("Hello my name is"+name);  
         sc.close();  
 
 
